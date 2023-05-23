@@ -15,6 +15,11 @@ Cosmic Crusade" is a retro-style space invaders game built using Python and the 
   
   ![Screenshot of Cosmic Crusade Gameplay](https://img.itch.zone/aW1hZ2UvMjA2Mjg4Ni8xMjIxNjMxMC5qcGc=/original/HCDYcv.jpg)
   
+  ## Goals for the future 
+  Implementation of Sound effects for every hits 
+  Creation of a Boss Fight at Level 5
+  Customising Space Ships and Lasers
+  
   
   
   
